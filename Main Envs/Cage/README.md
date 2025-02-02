@@ -5,6 +5,7 @@ https://beatsaver.com/maps/41287
 Cube in a cage with flying blocks as the lane
 
 ## How to install:  
+Main (suggeted):
 Go into the info.dat file and find where is says: ("_environmentName":) and make that say: ("_environmentName": "KDAEnvironment",)  
 Go download the script here: https://github.com/MadChase/ChromaPlus-Importer/tree/main  
 Follow all the steps in the Github page and download the script from releases  
