@@ -5,6 +5,7 @@ https://beatsaver.com/maps/359b6
 Environment Made for 360 maps with 72 lasers circling around you.
 
 ## How to install:  
+Main (suggeted):
 Go into the info.dat file and find where is says: ("_environmentName":) and make that say: ("_environmentName": "RocketEnvironment",)  
 Go download the script here: https://github.com/MadChase/ChromaPlus-Importer/tree/main  
 Follow all the steps in the Github page and download the script from releases  
