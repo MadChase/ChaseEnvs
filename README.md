@@ -1,8 +1,8 @@
 ## Info
-This is a place for anyone who wants to use my envs in their maps or for any other use case.    
-All envs are formaterd in v3 format and can not guarantee it works with v4 or v2     
+This is a place for anyone who wants to use my environments can in their maps or for any other use case.    
+All environments are formatted in v3 format and are untested for other formats, thereby can not be guarantee it works with v4 or v2      
 
-DM me on discord (madchasez) if having any issues with anything here      
+DM me on discord (madchasez) if you run into any issues with anything here, need help, or think something is unclear. things can always be improved.      
 
 ## Info Pages
 https://github.com/Aeroluna/Heck/wiki    
