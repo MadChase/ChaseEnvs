@@ -33,5 +33,5 @@ https://github.com/MadChase/ChromaPlus-Importer
 ## [Moses](Main%20Envs/Moses)
 ![Alt text](Main%20Envs/Moses/PIC.png)
 
-## [Moses](Main%20Envs/Movin)
+## [Movin](Main%20Envs/Movin)
 ![Alt text](Main%20Envs/Movin/PIC.png)
