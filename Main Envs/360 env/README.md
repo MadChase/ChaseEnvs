@@ -23,6 +23,7 @@ Note - make sure to switch the env to the one listed in the main steps
 
 ## How to Use:  
 If you plan on using CM for chroma ids I HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.    
+
 Everything is on Left and Right Rotating Laser, each of which using light ids 1-36 making 36 lasers on each side. 
 
 
