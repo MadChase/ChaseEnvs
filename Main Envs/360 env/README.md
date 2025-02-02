@@ -11,7 +11,7 @@ Follow all the steps in the Github page and download the script from releases
 Put the everything in One folder (env.dat, ExpertPlusStandard.dat, and ChromaPlus-Importer-1.0.0.py) and run the script via VSCode   
 NOTE: This env specific NEEDS Noodle to work (ie, needs both chroma and noodle in the map)   
 
-## Alternate:
+Alternate:
 This is for people who want to do it without the chorma importer (still needs VSCode).    
 Open up the diffyour diff in VSCode and search for the word "customData" using ctrl+f.   
 (If missing or having multiple go into Chromapper and click the pickaxe tool, then type something into the blank space. then ctrl+f for whatever you typed in and use the "customData" that that was in)    
