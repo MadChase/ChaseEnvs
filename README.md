@@ -1,5 +1,7 @@
 # ChaseEnvironments
-A place for people to use most my Env that MadChase has made 
+Tools that these should be used with:
+https://github.com/MoistSac/ChroMapper-ExtendedLightIDs
+https://github.com/MadChase/ChromaPlus-Importer
 
 ## [360 Environment](Main%20Envs/360%20env) </h1>
 ![Alt text](Main%20Envs/360%20env/PIC.png)
