@@ -9,7 +9,7 @@ Main (suggeted):
 Go into the info.dat file and find where is says: ("_environmentName":) and make that say: ("_environmentName": "DragonsEnvironment",)  
 Go download the script here: https://github.com/MadChase/ChromaPlus-Importer/tree/main  
 Follow all the steps in the Github page and download the script from releases  
-Put the everything in One folder (env.dat, ExpertPlusStandard.dat, and ChromaPlus-Importer-1.0.0.py) and run the script via VSCode  
+Put everything in One folder (env.dat, ExpertPlusStandard.dat, and ChromaPlus-Importer-1.0.0.py) and run the script via VSCode  
 Go into Chromapper and save the diff and then you should be good to go.
 
 Alternate:    
