@@ -23,6 +23,7 @@ Note - make sure to switch the env to the one listed in the main steps
 
 ## How to Use:  
 If you plan on using cm for chroma ids i HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.   
+
 Everything is on Big Rings: all the moving lights are on lightid 101-364. The order of these light ids is wierd so here is what i know, Light ids 346,142-179, and 101-125 are on the bottom and the rest are on the top two.  
 Tracks: You can mess with them though they should be working as intended. Too many to list so just look in your .dat file if you want to mess with them   
 
