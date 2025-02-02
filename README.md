@@ -2,6 +2,10 @@
 ## Info
 This is a place for anyone who want, to use my envs in their maps or for any other use.    
 DM on discord (madchasez) if having any issues with anything here
+## Info Pages
+https://github.com/Aeroluna/Heck/wiki
+https://bsmg.wiki/mapping/
+https://chromapper.atlassian.net/wiki/spaces/UG/overview
 ## Useful Tools:    
 https://github.com/MoistSac/ChroMapper-ExtendedLightIDs    
 https://github.com/MadChase/ChromaPlus-Importer    
