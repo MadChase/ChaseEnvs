@@ -15,3 +15,4 @@ If you plan on using CM for chroma ids I HIGHLY suggest getting the ExtendedLigh
 Everything is on Left and Right Rotating Laser, each of which using light ids 1-36 making 36 lasers on each side. 
 
 https://github.com/MadChase/ChaseEnvironments/blob/main/Main%20Envs/360%20env/PIC.png
+<img src="[https://example.com/path/to/image.png](https://github.com/MadChase/ChaseEnvironments/blob/main/Main%20Envs/360%20env/PIC.png)" alt="Alt text">
