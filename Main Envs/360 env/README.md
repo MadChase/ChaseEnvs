@@ -5,14 +5,14 @@ https://beatsaver.com/maps/359b6
 Environment Made for 360 maps with 72 lasers circling around you.
 
 ## How to install:  
-Main (suggeted):
+Main (suggeted):    
 Go into the info.dat file and find where is says: ("_environmentName":) and make that say: ("_environmentName": "RocketEnvironment",)  
 Go download the script here: https://github.com/MadChase/ChromaPlus-Importer/tree/main  
 Follow all the steps in the Github page and download the script from releases  
 Put the everything in One folder (env.dat, ExpertPlusStandard.dat, and ChromaPlus-Importer-1.0.0.py) and run the script via VSCode   
 Go int Chromapper and save the diff and then you should be good to go.
 
-Alternate:
+Alternate:    
 This is for people who want to do it without the chorma importer (still needs VSCode).    
 Open up the diffyour diff in VSCode and search for the word "customData" using ctrl+f.   
 (If missing or having multiple go into Chromapper and click the pickaxe tool, then type something into the blank space. then ctrl+f for whatever you typed in and use the "customData" that that was in)    
