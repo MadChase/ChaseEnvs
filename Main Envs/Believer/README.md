@@ -12,9 +12,12 @@ Follow all the steps in the Guthub page and download the script from releases
 Put the eveything in One folder (env.dat, ExpertPlusStandard.dat, and ChromaPlus-Importer-1.0.0.py) and run the script via VSCode   
 NOTE: This env specific NEEDS Noodle to work (ie, needs both chroma and noodle in the map)   
 
-Alternert:
-This is the easy way for people who don't know how chroma coding works. First go into a map in cm, click on the pickaxe button on the bottom. Then add one thing to the list (don't have to put anything in the text box). Then change the environment to BTS.
-Then hit the open folder button on the bottom left. Open up the diff you just added the pickaxe stuff to and find (use ctrl+f to search for the word) to find where it says "environment". Copy all text in the .dat file called env.dat here and paste it over both the "environment" and the [ ] and what is in it. You should then be good to go with using it in cm. 
+Alternate:
+This is for people who want to do it without the chorma importer (still needs VSCode).    
+Open up the diffyour diff in VSCode and search for the word "customData" using ctrl+f.   
+(If missing or having multiple go into Chromapper and click the pickaxe tool, then type something into the blank space. then ctrl+f for whatever you typed in and use the "customData" that that was in)    
+Copy all text in the "customData" of the env.dat file into the diff's "customData" and you should then be good to go with using it in cm.    
+
 
 ## How to Use:
 If you plan on using cm for chroma ids i HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p. 
