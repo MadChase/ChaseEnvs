@@ -20,3 +20,6 @@ Water 3: light id 101 has a water splashing effect far in the distance. Also has
 Water 4: Has the 2 Big lasers on the bottom of the Waterfalls using ids 5-6. Also has the farthest lines on the floor on both sides using light id 1-2 
 
 Tracks: has tracks on the sun so you can move it with "track": "sun"
+
+
+![Alt text](PIC.png)
