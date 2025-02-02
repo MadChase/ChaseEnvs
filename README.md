@@ -3,9 +3,9 @@ This is a place for anyone who want, to use my envs in their maps or for any oth
 DM on discord (madchasez) if having any issues with anything here      
 
 ## Info Pages
-https://github.com/Aeroluna/Heck/wiki
-https://bsmg.wiki/mapping/
-https://chromapper.atlassian.net/wiki/spaces/UG/overview     
+https://github.com/Aeroluna/Heck/wiki    
+https://bsmg.wiki/mapping/    
+https://chromapper.atlassian.net/wiki/spaces/UG/overview         
 
 ## Useful Tools:    
 https://github.com/MoistSac/ChroMapper-ExtendedLightIDs    
