@@ -15,3 +15,6 @@ Inner Ring: Needs light ids. 101-103 are the big lasers (101 middle, 102 left, 1
 Left and Right Lasers: uses light ids 1,7,13,19,22,25 in that order from close to far 
 
 Tracks: has tracks on the balls so you can move them which are "track": "Ballleft", "track": "Ballmid", and "track": "Ballright", respectively 
+
+
+![Alt text](PIC.png)
