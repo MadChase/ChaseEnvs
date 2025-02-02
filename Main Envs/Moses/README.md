@@ -23,6 +23,7 @@ Note - make sure to switch the env to the one listed in the main steps
 
 ## How to Use:
 If you plan on using cm for chroma ids i HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.    
+
 Note: untested with boost colors/the moon   
 Left and Right Sunbeams: Same a base game.   
 Sun: Same as base game but bigger and has a track   
