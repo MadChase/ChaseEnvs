@@ -1,4 +1,6 @@
 # ChaseEnvironments
+## Info
+This is a place for anyone who want, to use my envs in their maps or for any other use.    
 ## Tools that these should be used with:    
 https://github.com/MoistSac/ChroMapper-ExtendedLightIDs    
 https://github.com/MadChase/ChromaPlus-Importer    
