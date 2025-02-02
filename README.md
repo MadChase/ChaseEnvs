@@ -1,6 +1,6 @@
 ## Info
 This is a place for anyone who wants to use my envs in their maps or for any other use case.    
-All envs are formaterd in v3 format and can not guarantee it works with v4 or v2 
+All envs are formaterd in v3 format and can not guarantee it works with v4 or v2     
 DM me on discord (madchasez) if having any issues with anything here      
 
 ## Info Pages
