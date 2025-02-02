@@ -1,10 +1,10 @@
-Used in:  
+## Used in:  
 https://beatsaver.com/maps/393f5 
 
-Summery:  
+## Summery:  
 Environment that is a flying galaxy in the sky
 
-How to install:  
+## How to install:  
 Main (suggeted):   
 Go into the info.dat file and find where is says: ("_environmentName":) and make that say: ("_environmentName": "GagaEnvironment",)   
 Go download the script here: https://github.com/MadChase/ChromaPlus-Importer/tree/main   
@@ -19,7 +19,7 @@ Open up the diffyour diff in VSCode and search for the word "customData" using c
 Copy all text in the "customData" of the env.dat file into the diff's "customData" and you should then be good to go with using it in cm.
 Note - make sure to switch the env to the one listed in the main steps
 
-How to Use:  
+## How to Use:  
 If you plan on using cm for chroma ids i HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.   
 Everything is on Left Rotating Laser: the aurora’s use light ids 101-125  
 Tracks: all the auroras have the "track": "Aurora" then with now space 1-26 (ex: "Aurora10") so you can use animation tracks to move them if you know how  
