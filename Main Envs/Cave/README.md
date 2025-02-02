@@ -15,3 +15,6 @@ If you plan on using cm for chroma ids i HIGHLY suggest getting the ExtendedLigh
 Center Lights: 5 Lasers coming out at you using light ids: (101, 102, 103, 110, 115) from left to right  
 Left and Right Lasers: lasers coming out from the water using light ids (1,7,13,19,25)  
 Back Lasers: fill light in the back of the environment
+
+
+![Alt text](PIC.png)
