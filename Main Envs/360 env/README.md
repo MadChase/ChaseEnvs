@@ -13,3 +13,5 @@ Put the eveything in One folder (env.dat, ExpertPlusStandard.dat, and ChromaPlus
 How to Use:  
 If you plan on using CM for chroma ids I HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.   
 Everything is on Left and Right Rotating Laser, each of which using light ids 1-36 making 36 lasers on each side. 
+
+![alt text](https://github.com/MadChase/ChaseEnvironments/edit/main/Main%20Envs/360%20env/PIC.png?raw=true)
