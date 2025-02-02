@@ -16,6 +16,7 @@ This is for people who want to do it without the chorma importer (still needs VS
 Open up the diffyour diff in VSCode and search for the word "customData" using ctrl+f.   
 (If missing or having multiple go into Chromapper and click the pickaxe tool, then type something into the blank space. then ctrl+f for whatever you typed in and use the "customData" that that was in)    
 Copy all text in the "customData" of the env.dat file into the diff's "customData" and you should then be good to go with using it in cm.    
+Note - make sure to switch the env to the one listed in the main steps
 
 ## How to Use:  
 If you plan on using CM for chroma ids I HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.   
