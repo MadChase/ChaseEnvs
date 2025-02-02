@@ -1,5 +1,5 @@
 ## Info
-This is a place for anyone who want, to use my envs in their maps or for any other use.    
+This is a place for anyone who wants to use my envs in their maps or for any other use case.    
 DM me on discord (madchasez) if having any issues with anything here      
 
 ## Info Pages
