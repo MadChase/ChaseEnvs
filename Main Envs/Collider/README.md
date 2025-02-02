@@ -23,6 +23,7 @@ Note - make sure to switch the env to the one listed in the main steps
 
 ## How to Use:  
 If you plan on using cm for chroma ids i HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.   
+
 Things on Back Laser: all the lasers are on here with lightids - 101-154   
 Things on Left Rotating Lasers: The cubes are on here with lightids - 101-115   
 Things on Left Center Lights: All the fill lights are on here with lightids - 1000-1129   
