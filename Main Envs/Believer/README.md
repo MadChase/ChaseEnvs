@@ -14,10 +14,12 @@ Go into Chromapper and save the diff and then you should be good to go.
 
 Alternate:    
 This is for people who want to do it without the chorma importer (still needs VSCode).    
-Open up the diffyour diff in VSCode and search for the word "customData" using ctrl+f.   
-(If missing or having multiple go into Chromapper and click the pickaxe tool, then type something into the blank space. then ctrl+f for whatever you typed in and use the "customData" that that was in)    
-Copy all text in the "customData" of the env.dat file into the diff's "customData" and you should then be good to go with using it in cm.    
+Open up the your diff in VSCode and search for the word "customData" using ctrl+f.   
+(If missing or having multiple go into Chromapper and click the pickaxe tool in the map menu screen for a diff, then type something into the blank space that pops up. Then go back to VSCode ctrl+f for whatever you typed in and use the "customData" that that was in)    
+Copy all text in the "customData" of the env.dat file into the diff's "customData".    
+Go int Chromapper and save the diff and then you should be good to go.      
 Note - make sure to switch the env to the one listed in the main steps
+
 
 
 ## How to Use:
