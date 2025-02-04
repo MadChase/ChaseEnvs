@@ -27,6 +27,7 @@ Note - This env specifically needs noodle to work properly
 
 If you plan on using cm for chroma ids i HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.   
 Left+Right Rotating Lasers: small lasers coming off of the top    
+
 Everything else is on Big Ring Neons: 
 The Big Cube in the middle is LightID:101  
 The fill lights from the lane are LightID:1001-1003 plus other fill lights for LightID:150-153  
