@@ -12,7 +12,7 @@ https://chromapper.atlassian.net/wiki/spaces/UG/overview
 ## Required Tools:    
 Chromapper: https://cm.topc.at/dl    
 Chromapper Plugin ExtendedLightIDs: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs    
-Importer env tool; https://github.com/MadChase/ChromaPlus-Importer    
+Importer env tool: https://github.com/MadChase/ChromaPlus-Importer    
      
 ## Environments:
 ## [360 Environment (Rocket League)](Main%20Envs/360%20env) </h1>
