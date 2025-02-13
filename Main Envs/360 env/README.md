@@ -10,13 +10,13 @@ https://code.visualstudio.com/download
 https://cm.topc.at/dl     
 
 ## How to install:  
-Main (suggeted):    
+**Main** **(suggeted):**    
 Go download the script here: https://github.com/MadChase/ChromaPlus-Importer/tree/main  
 Follow all the steps in the Github page and download the script from releases  
 Put everything in One folder (env.dat, ExpertPlusStandard.dat, info.dat, and ChromaPlus-Importer-1.0.0.js) and run the script via VSCode   
 Go into Chromapper and save the diff and then you should be good to go.
 
-Alternate:    
+**Alternate:**    
 This is for people who want to do it without the chorma importer (still needs VSCode).    
 Open up the your diff in VSCode and search for the word "customData" using ctrl+f.   
 (If missing or having multiple go into Chromapper and click the pickaxe tool in the map menu screen for a diff, then type something into the blank space that pops up. Then go back to VSCode ctrl+f for whatever you typed in and use the "customData" that that was in)    
