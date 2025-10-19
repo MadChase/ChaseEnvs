@@ -24,6 +24,9 @@ Importer env tool: https://github.com/MadChase/ChromaPlus-Importer
 ## [Cage (KDA)](Main%20Envs/Cage)
 ![Alt text](Main%20Envs/Cage/PIC.png)
 
+## [Cage Alt (KDA)](Main%20Envs/Cage%20Alt)
+![Alt text](Main%20Envs/Cage%20Alt/PIC.png)
+
 ## [Cave (BTS)](Main%20Envs/Cave)
 ![Alt text](Main%20Envs/Cave/PIC.png)
 
