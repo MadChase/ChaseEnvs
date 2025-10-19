@@ -26,15 +26,16 @@ Note - This env specifically NEEEDS noodle to work properly
 
 If you plan on using cm for chroma ids i HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.  
 
-Left+Right rotation lasers: small lasers coming off of the top (not affected by rotation events) and are LightID: 11-17 respectively    
-Back Lasers is the fill lights from under and are LightID: 150-153    
-Everything else is on Big Ring Neons:    
-The Big Cube in the middle is LightID:101    
-The lasers around the area are LightID:2001-2010.    
-Tracks: You can mess with them though they should be working as intended. Too many to list so just look in your .dat file if you want to mess with them   
+- Left+Right rotation lasers: small lasers coming off of the top (not affected by rotation events) and are LightID: 11-17 respectively    
+- Back Lasers is the fill lights from under and are LightID: 150-153    
+- Everything else is on Big Ring Neons:    
+- The Big Cube in the middle is LightID:101    
+- The lasers around the area are LightID:2001-2010.    
+- Tracks: You can mess with them though they should be working as intended. Too many to list so just look in your .dat file if you want to mess with them   
 
 
 ![Alt text](PIC.png)
+
 
 
 
