@@ -14,10 +14,10 @@ NOTE - This env specific NEEDS Noodle to work (ie, needs both chroma and noodle 
 
 Alternate:    
 This is for people who want to do it without the chorma importer (still needs VSCode).    
-Open up the your diff in VSCode and search for the word "customData" using ctrl+f.   
-(If missing or having multiple go into Chromapper and click the pickaxe tool in the map menu screen for a diff, then type something into the blank space that pops up. Then go back to VSCode ctrl+f for whatever you typed in and use the "customData" that that was in)    
-Copy all text in the "customData" of the env.dat file into the diff's "customData".    
-Go into Chromapper and save the diff and then you should be good to go.      
+- Open up the your diff in VSCode and search for the word "customData" using ctrl+f.
+(If missing it go into Chromapper and click the pickaxe tool in the map menu screen for a diff, then type something into the blank space that pops up. Then go back to VSCode ctrl+f for whatever you typed in and use the "customData" that that was in)    
+- Copy all text in the "customData" of the env.dat file into the diff's "customData".    
+- Go into Chromapper and change the env to the env this envomrnt uses and save the diff and then you should be good to go.      
 Note - make sure to switch the env to the one listed in the main steps
 
 
@@ -26,7 +26,7 @@ Note - This env specifically NEEEDS noodle to work properly
 
 If you plan on using cm for chroma ids i HIGHLY suggest getting the ExtendedLightIDs plugin found here: https://github.com/MoistSac/ChroMapper-ExtendedLightIDs which allows you to see the added light ids using alt+p.  
 
-Left+Right rotation lasers: small lasers coming off of the top (not affected by rotation events) and are LightID: 11-17 respectivly    
+Left+Right rotation lasers: small lasers coming off of the top (not affected by rotation events) and are LightID: 11-17 respectively    
 Back Lasers is the fill lights from under and are LightID: 150-153    
 Everything else is on Big Ring Neons:    
 The Big Cube in the middle is LightID:101    
@@ -35,5 +35,6 @@ Tracks: You can mess with them though they should be working as intended. Too ma
 
 
 ![Alt text](PIC.png)
+
 
 
