@@ -6,10 +6,10 @@ Cube in a cage with flying blocks as the lane
 
 ## How to install:  
 Main (suggeted):    
-Go download the script here: https://github.com/MadChase/ChromaPlus-Importer/tree/main  
-Follow all the steps in the Github page and download the script from releases  
-Put everything in One folder (env.dat, ExpertPlusStandard.dat, and ChromaPlus-Importer-1.0.0.py) and run the script via VSCode   
-Go into Chromapper and save the diff and then you should be good to go.
+- Go download the script here: https://github.com/MadChase/ChromaPlus-Importer/tree/main  
+- Follow all the steps in the Github page and download the script from releases  
+- Put everything in One folder (env.dat, ExpertPlusStandard.dat, and ChromaPlus-Importer-1.0.0.py) and run the script via VSCode
+  
 NOTE - This env specific NEEDS Noodle to work (ie, needs both chroma and noodle in the map)   
 
 Alternate:    
@@ -35,4 +35,5 @@ Tracks: You can mess with them though they should be working as intended. Too ma
 
 
 ![Alt text](PIC.png)
+
 
